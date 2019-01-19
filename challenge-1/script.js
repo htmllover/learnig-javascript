@@ -1,0 +1,1 @@
+var johnMass = 68;
